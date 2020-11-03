@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "landings",
+  "info": {
+    "name": "Landing",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing.header"
+    },
+    "Body": {
+      "type": "dynamiczone",
+      "components": [
+        "landing.projects"
+      ]
+    }
+  }
+}

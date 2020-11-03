@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_landing_headers",
+  "info": {
+    "name": "Header",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "SubText": {
+      "type": "string"
+    }
+  }
+}
