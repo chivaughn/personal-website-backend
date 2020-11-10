@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_landing_experiences",
+  "info": {
+    "name": "Experience",
+    "icon": "coffee",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Company": {
+      "type": "string"
+    },
+    "StartDate": {
+      "type": "date"
+    },
+    "EndDate": {
+      "type": "date"
+    },
+    "WhatIDid": {
+      "type": "json"
+    },
+    "JobTitle": {
+      "type": "string"
+    }
+  }
+}

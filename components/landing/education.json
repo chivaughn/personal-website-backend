@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_landing_educations",
+  "info": {
+    "name": "Education",
+    "icon": "book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "SchoolName": {
+      "type": "string"
+    },
+    "StartDate": {
+      "type": "date"
+    },
+    "EndDate": {
+      "type": "date"
+    },
+    "Degree": {
+      "type": "string"
+    },
+    "Location": {
+      "type": "string"
+    }
+  }
+}

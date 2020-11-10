@@ -19,7 +19,9 @@
     "Body": {
       "type": "dynamiczone",
       "components": [
-        "landing.projects"
+        "landing.projects",
+        "landing.education",
+        "landing.experience"
       ]
     }
   }
